@@ -1,13 +1,12 @@
 # Lab 3: REST API, Query Parameters, Validation and Debugging
 
-## Student Details
-
-- **Student Name:** Nanda Kishore
-- **Registration Number:** N25H03A1322
-- **Section:** CSE GEN AI (2C)
+## 1. Student Information
+- **Name:** Chigilipalli Sai Thanusree
+- **Registration Number:** 252U1R1059
+- **Section:** CSE-2A
 - **Course:** Backend Development Fundamentals
 - **Academic Term:** Year II – Term II
-- **Faculty:** Joel Prashanth D
+- **Faculty:** Mr Sai Siva Teja Chintakrindi
 
 ---
 
